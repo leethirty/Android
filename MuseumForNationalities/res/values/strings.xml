@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">华族偕行</string>
+    <string name="capture_tip">请扫描你要观看展区的二维码，然后将自动进入展区</string>
+    <string name="serverPath">http://172.20.55.131:8080/MuseumOfNation</string>
+    <string name="zang_path">http://172.20.55.131:8080/MuseumOfNation/video/zang/zang.mp4</string>
+	<string name="yi_path">http://172.20.55.131:8080/MuseumOfNation/video/yi/yi.mp4</string>
+	<string name="qiang_path">http://172.20.55.131:8080/MuseumOfNation/video/qiang/qiang.mp4</string>
+	<string name="naxi_path">http://172.20.55.131:8080/MuseumOfNation/video/naxi/naxi.mp4</string>
+    <string name="send">发送</string>
+    <string name="num">140/140</string>
+	<string name="loading_video">视频正在拼命加载中…</string>
+	<string name="error_url">访问出错！</string>
+	<string name="error_net">网速不给力啊！</string>
+	<string name="sms_share">我正在使用西南民族大学民族博物馆，里面内容很丰富,推荐你下载使用。</string>
+	<string name="qq">QQ:</string>
+	<string name="about_museum_title">"西南民族大学民族博物馆简介 "</string>
+	<string name="about_museum">　　西南民族大学博物馆在学校建校次年，即 1952 年 9 月正式设立，是新中国最早建立的民族博物馆之一。
+\n　　成立 50余年来，博物馆始终把采集、收藏、研究民族文物作为重要的工作。经常派遣专业人员到西南各个民族地区调查、征集民族文物。迄今为止，博物馆已收藏了国内30余个民族的文物 10300余件。其中藏传佛教佛龛、镏金佛像、唐卡、藏文古籍和凉山彝族的漆器、苗族服饰、羌族地区土司官印等尤为珍贵。这些民族文物都具有较高的历史价值、民族学价值、艺术价值，是进行教学和科学研究的第一手资料。
+\n　　博物馆现有“西南少数民族文物陈列室”、“藏族宗教文化艺术陈列室”、“藏族面具陈列室”和“《格萨尔》文化陈列室”四个展厅，总面积 650 平方米。展出内容主要为中国西南少数民族的基本情况；藏族、彝族、羌族、苗族、傣族等 10余个少数民族的生产生活用品；藏族宗教文化；藏族面具；《格萨尔》文化。博物馆除对本校师生开放外，还常年向社会开放。由于展品丰富、独特，陈列形式形象生动，民族特色显著，深受校内师生和国内外观众的喜爱。除国内的展出外，博物馆还注重对外展出，扩大影响。 2003 年 5 月—— 8 月，“藏族面具和少数民族饰品”应邀赴韩国参展，获得了较高的声誉。
+\n　　为学校的教学服务，也是博物馆的重要工作之一。博物馆现有民俗学硕士点和考古学及博物馆学硕士点两个，除承担本馆硕士生的教学外，还承担了学校其它学院本科生和硕士生以及博士生相关课程的教学工作。
+\n　　自 2000年以来，馆内科研人员主持国家社科基金项目 1项、福特基金项目 1项、省部级社科基金项目 4项，参与国家社科基金项目、省部级项目多项。共出版（含合作与个人独著）专著 6部，其中 1部被译为韩文出版并获韩国国家图书奖，发表论文 10余篇，获省、部级社科优秀成果二、三等奖共 5 项。
+\n　　2002年 6月，博物馆成功举办了“中韩民族传统造型文化国际学术会”，与亚洲民族造型学会韩国分会正式建立了友好合作关系。馆内学者分别应邀赴韩国和法国参加学术研讨会达 6人次。</string>
+	<string name="about">界面设计: 蒋贵欣\n\n软件开发: 李超、蒋贵欣\n\n内容制作: 李梅\n\n特别鸣谢: 唐城、晏迪</string>
+	<string name="power">Powered By Ducer,Lee\nFrom SWUN FM Team\n版权所有　翻版必究</string>
+	<string name="about_us">关于我们</string>
+	<string name="about_video">视频介绍</string>
+	<string name="about_image">图文解说</string>
+	<string name="talk">评论</string>
+	<string name="suggest">反馈</string>
+</resources>

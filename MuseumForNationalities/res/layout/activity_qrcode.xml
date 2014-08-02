@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center" >
+
+    <SurfaceView
+        android:id="@+id/preview_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center" />
+
+    <com.ducer.qrcode.view.ViewfinderView
+        android:id="@+id/viewfinder_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/transparent" />
+
+    <RelativeLayout
+        android:id="@+id/qrcode_banner"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/banner_main" >
+
+        <ImageButton
+            android:id="@+id/qrcode_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="left"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/back_selector" />
+
+        <ImageButton
+            android:id="@+id/qrcode_history"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:background="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/history_selector" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/qrcode_notice"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/media_controller_bg"
+        android:gravity="center"
+        android:text="@string/capture_tip"
+        android:textSize="11.0sp" />
+
+</RelativeLayout>

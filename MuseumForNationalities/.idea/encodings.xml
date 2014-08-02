@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/ducer/custom/PaginationAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ducer/custom/ScaleAnimations.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ducer/custom/SuggestAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ducer/tools/MemoryCache.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
+

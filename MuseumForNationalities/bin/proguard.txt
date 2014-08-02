@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:59
+-keep class com.ducer.museumfornationalities.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.ducer.museumfornationalities.ImageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.ducer.museumfornationalities.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.ducer.museumfornationalities.MenuActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.ducer.museumfornationalities.SuggestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.ducer.museumfornationalities.TalkActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.ducer.museumfornationalities.VideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.ducer.qrcode.CaptureActivity { <init>(...); }
+
+# view res/layout/activity_qrcode.xml #generated:14
+-keep class com.ducer.qrcode.view.ViewfinderView { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.ducer.tools.MyApplication { <init>(...); }
+
